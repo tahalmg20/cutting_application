@@ -1,0 +1,46 @@
+<decoupes>
+	<decoupe>	
+		<Client id="0" planche="0.0"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="0" planche="0.1"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="0" planche="0.2"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="0" planche="0.3"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="1" planche="0.0"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.0"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.1"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.2"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.3"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.4"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.5"/>
+		<Supplier id="0" panneau="2.0"/>
+	</decoupe>
+</decoupes>

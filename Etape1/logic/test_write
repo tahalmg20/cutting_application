@@ -1,0 +1,101 @@
+
+
+public class Writer {
+	XMLStreamWriter writer;
+    
+    // public void XMLwriter(List<Client> listClient , List <Supplier> listSupplier ) throws Exception {
+		// String file = "dec.xml";
+	
+		// XMLOutputFactory outputFactory = XMLOutputFactory.newInstance();
+		// FileWriter output = new FileWriter(new File(file));
+		// writer = outputFactory.createXMLStreamWriter(output);
+		
+		// writer.writeStartElement("decoupes");
+		// writer.writeCharacters("\n");
+		
+		
+// 		for(int i = 0 ;i < listClient.size();i++){
+// 			int j = 0 ; 
+// 			for(int j = 0 ; j< listClient.get(i).listP.size();j++){
+			
+				
+// 					writer.writeCharacters("\t");
+// 				writer.writeStartElement("decoupe");
+// 				writer.writeCharacters("\t");
+// 				writer.writeCharacters("\n");
+// 				/* client  */
+// 				writer.writeCharacters("\t\t");
+// 				writer.writeEmptyElement("client");
+// 				writer.writeAttribute("id",Integer.toString( listClient.get(i).id));
+// 				writer.writeAttribute("planche", Integer.toString(listClient.get(i).listP.get(j).id));
+// 				writer.writeCharacters("\n");
+// 				/* fournisseur */ 
+// 				writer.writeCharacters("\t\t");
+// 				writer.writeEmptyElement("fournisseur");
+// 				writer.writeAttribute("id",Integer.toString( listSupplier.get(i).id));
+// 				writer.writeAttribute("panneau", Integer.toString(listSupplier.get(i).listP.get(j).id));
+// 				System.out.println("-----hola---- ");
+// 				writer.writeCharacters("\n");
+// 				writer.writeCharacters("\t\t");
+// 				writer.writeEmptyElement("Position");
+// 				writer.writeAttribute("x",Float.toString( listSupplier.get(i).listP.get(j).dim.longueur));
+// 				writer.writeAttribute("y", Float.toString(listSupplier.get(i).listP.get(j).dim.largeur));
+// 				// end of file
+// 					writer.writeCharacters("\n\t");
+// 				writer.writeEndElement();
+// 				writer.writeCharacters("\n");
+				
+			
+// 				//writer.writeEndElement();
+// 		}
+// 				writer.writeEndElement();
+// 			//close
+// 			writer.flush();
+// 			writer.close();
+// 	}
+// 	 public void XMLwriter_svg( Plank plank , Pannel pannel  ) throws Exception {
+// 		String file = "test.svg";
+	
+// 		XMLOutputFactory outputFactory = XMLOutputFactory.newInstance();
+// 		FileWriter output = new FileWriter(new File(file));
+// 		//writer = outputFactory.createXMLStreamWriter(output);
+		
+
+// 		//writer.writeStartDocument();
+// 		String L_plank = Float.toString(plank.dim.longueur); 
+// 		String l_plank = Float.toString(plank.dim.largeur) ; 
+// 		String L_pannel =  Float.toString(pannel.dim.longueur);
+// 		String l_pannel  =  Float.toString(pannel.dim.largeur) ; 
+
+// 		output.write("<svg width=\"400\" height=\"400\" >");
+// 		output.write("\n");
+// 		output.write("\t");
+// 		output.write("<rect width ="+ "\""+ L_plank +"\"" + " height = " + "\"" +l_plank +"\"" + " style=\"fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)\" >") ;
+// 		output.write("</rect>");
+// 		output.write("\n");
+// 		output.write("\t");
+// 		output.write("	<rect width ="+ "\""+ L_pannel +"\"" + " height = " + "\"" +l_pannel +"\"" + " style=\"fill:rgb(0,255,255);stroke-width:5;stroke:rgb(0,0,0)\" >") ;
+// 		output.write("</rect>");
+// 		output.write("\n");
+// 		output.write("\t");
+// 		//writer.write(<rect height = "L_pannel" height = "l_pannel"style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)">) ;
+// 		//output.write("</rect>");
+
+// 		output.write("\n");
+// 		output.write("\t");
+// 		//output.write("</rect>");
+// 		output.write("</svg>");
+// 		// output.write("</svg>");
+// 		// output.write("</svg>");
+// 		output.close() ;
+// 		//output.fflush();
+		
+// 	}
+
+
+
+
+
+
+
+ }

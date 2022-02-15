@@ -1,0 +1,17 @@
+<clients>
+  <client id="0">
+    <planche id="0" nombre="4" date="12.10.23" prix="-270.00">
+      <dim L="50.00" l="90.00" />
+    </planche>
+  </client>
+  <client id="1">
+    <planche id="0" nombre="1" date="12.11.24" prix="380.00">
+      <dim L="110.00" l="160.00" />
+    </planche>
+  </client>
+  <client id="2">
+    <planche id="0" nombre="6" date="01.05.23" prix="70.00">
+      <dim L="80.00" l="100.00" />
+    </planche>
+  </client>
+</clients>

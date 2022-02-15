@@ -1,0 +1,21 @@
+<fournisseurs>
+  <fournisseur id="0">
+    <panneau id="0" nombre="25" date="14.06.23" prix="300.00">
+      <dim L="50.00" l="40.00" />
+    </panneau>
+    <panneau id="1" nombre="5" date="04.05.23" prix="-200.00">
+      <dim L="50.00" l="100.00" />
+    </panneau>
+    <panneau id="2" nombre="3" date="16.05.22" prix="950.00">
+      <dim L="40.00" l="60.00" />
+    </panneau>
+  </fournisseur>
+  <fournisseur id="1">
+    <panneau id="0" nombre="10" date="14.06.12" prix="300.00">
+      <dim L="50.00" l="40.00" />
+    </panneau>
+    <panneau id="2" nombre="10" date="14.06.24" prix="300">
+      <dim L="50.00" l="40.00" />
+    </panneau>
+  </fournisseur>
+</fournisseurs>

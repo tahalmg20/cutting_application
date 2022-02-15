@@ -1,0 +1,7 @@
+<decoupes>
+  <decoupe>
+    <client id="1" planche="2" />
+    <fournisseur id="0" panneau="1" />
+    <position x="12.00" y="40.00" />
+  </decoupe>
+</decoupes>

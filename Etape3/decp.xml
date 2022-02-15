@@ -1,0 +1,57 @@
+<decoupes>
+	<decoupe>	
+		<Client id="1" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="1" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="110"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="1" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="220"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="1" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="330"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="1" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="440"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="0"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="80"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="160"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="240"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="320"/>
+	</decoupe>
+	<decoupe>	
+		<Client id="2" planche="0.0"/>
+		<Supplier id="0" panneau="0.0"/>
+		<Position x="0" y="400"/>
+	</decoupe>
+</decoupes>
